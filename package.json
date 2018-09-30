@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist",
-    "start": "gh-pages-clean"
+
   },
   "keywords": [],
-  "homepage": "https://utkarsh4321.github.io/Band_Theme",
+
   "author": "ram",
   "license": "ISC",
   "dependencies": {
