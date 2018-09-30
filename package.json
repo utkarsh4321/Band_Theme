@@ -11,6 +11,6 @@
   "author": "ram",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^2.0.0"
+
   }
 }
